@@ -5,8 +5,8 @@
     <UsingToolNetFrameworkReferenceAssemblies>true</UsingToolNetFrameworkReferenceAssemblies>
   </PropertyGroup>
   <PropertyGroup>
-    <VersionMajor>5</VersionMajor>
-    <VersionMinor>0</VersionMinor>
+    <VersionMajor>X</VersionMajor>
+    <VersionMinor>Y</VersionMinor>
     <VersionSDKMinor>3</VersionSDKMinor>
     <VersionFeature>00</VersionFeature>
     <VersionPrefix>$(VersionMajor).$(VersionMinor).$(VersionSDKMinor)$(VersionFeature)</VersionPrefix>
